@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:gravity="center"
+    tools:context=".SecondActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ushbu loyiha 712-18 guruh talabalari tomonidan ishlab chiqildi"
+        android:textColor="@color/purple_500"
+        android:textSize="@dimen/_18ssp"
+        android:padding="@dimen/_20sdp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+</LinearLayout>
